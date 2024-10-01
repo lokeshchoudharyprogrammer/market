@@ -1,0 +1,81 @@
+{
+  "marketState": [
+    {
+      "market": "Capital Market",
+      "marketStatus": "Open",
+      "tradeDate": "01-Oct-2024 14:31",
+      "index": "NIFTY 50",
+      "last": 25769.05,
+      "variation": -41.79999999999927,
+      "percentChange": -0.16,
+      "marketStatusMessage": "Normal Market is Open"
+    },
+    {
+      "market": "Currency",
+      "marketStatus": "Open",
+      "tradeDate": "01-Oct-2024",
+      "index": "",
+      "last": "",
+      "variation": "",
+      "percentChange": "",
+      "marketStatusMessage": "Market is Open"
+    },
+    {
+      "market": "Commodity",
+      "marketStatus": "Open",
+      "tradeDate": "01-Oct-2024",
+      "index": "",
+      "last": "",
+      "variation": "",
+      "percentChange": "",
+      "marketStatusMessage": "Market is Open"
+    },
+    {
+      "market": "Debt",
+      "marketStatus": "Open",
+      "tradeDate": "01-Oct-2024",
+      "index": "",
+      "last": "",
+      "variation": "",
+      "percentChange": "",
+      "marketStatusMessage": "Market is Open"
+    },
+    {
+      "market": "currencyfuture",
+      "marketStatus": "Open",
+      "tradeDate": "01-Oct-2024",
+      "index": "",
+      "last": "83.9075",
+      "variation": "",
+      "percentChange": "",
+      "marketStatusMessage": "Market is Open",
+      "expiryDate": "29-Oct-2024",
+      "underlying": "USDINR",
+      "updated_time": "01-Oct-2024 14:32",
+      "tradeDateFormatted": "01-Oct-2024 14:32",
+      "slickclass": "slick-item"
+    }
+  ],
+  "marketcap": {
+    "timeStamp": "30-Sep-2024",
+    "marketCapinTRDollars": 5.62,
+    "marketCapinLACCRRupees": 470.6472536170243,
+    "marketCapinCRRupees": 47064725.36,
+    "marketCapinCRRupeesFormatted": "47,064,725.36",
+    "marketCapinLACCRRupeesFormatted": "470.65",
+    "underlying": "Market Cap"
+  },
+  "indicativenifty50": {
+    "dateTime": "30-Sep-2024 15:30",
+    "indicativeTime": null,
+    "indexName": "NIFTY 50",
+    "indexLast": null,
+    "indexPercChange": null,
+    "indexTimeVal": null,
+    "closingValue": 25810.85,
+    "finalClosingValue": 25810.85,
+    "change": -368.1,
+    "perChange": -1.41,
+    "status": "CLOSE"
+  }
+}
